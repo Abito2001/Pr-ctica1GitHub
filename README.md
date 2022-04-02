@@ -12,3 +12,5 @@
 # INTEGRANTES DEL EQUIPO                MATRÍCULA
 
 ###### ABRAHAM JIMÉNEZ VILLNUEVA        20212556
+|  | Normas Jurídicas | Normas Sociales | Normas Convencionales| Normas Religiosas |
+|--|------------------|-----------------|----------------------|-------------------|
