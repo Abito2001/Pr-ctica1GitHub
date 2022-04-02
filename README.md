@@ -1,4 +1,4 @@
-![Esta es una imagen]/assets/images/unknown.png
+![image](https://user-images.githubusercontent.com/102619696/161366903-5d559c59-828e-4a08-b7e8-b832641f7057.png)
 
 # INSTITUTO TECNOLÓGICO DE TIJUANA
 ## DEPARTAMENTO DE SISTEMAS DE COMPUTACIÓN
