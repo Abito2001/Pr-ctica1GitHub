@@ -1,4 +1,4 @@
-![Esta es una imagen]/assets/images/unknown.png
+
 
 # INSTITUTO TECNOLÓGICO DE TIJUANA
 ## DEPARTAMENTO DE SISTEMAS DE COMPUTACIÓN
